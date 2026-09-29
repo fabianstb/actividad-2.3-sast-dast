@@ -90,7 +90,6 @@ Abrir una terminal en Kali y ejecutar:
 
 ```bash
 sudo apt update
-sudo apt full-upgrade -y
 sudo apt install -y git curl nano docker.io docker-compose
 ```
 
